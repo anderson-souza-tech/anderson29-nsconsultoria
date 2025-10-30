@@ -11,11 +11,11 @@
 ### 🚀 Sobre mim
 - 🎯 Atualmente focado em **Segurança da Informação** e **Pentest**  
 - 🧠 Estudando **Desenvolvimento Web Full Stack (HTML, CSS, JS, PHP, MySQL)**  
-- 🧩 Tenho experiência com **Suporte N2, redes, servidores e infraestrutura Linux**  
+- 🧩 Tenho experiência com **Suporte N2, Redes, Servidores e Infraestrutura Linux**  
 - 🧰 Criei projetos como:
-  - 🔍 *VulnScanner 3.0* – ferramenta de varredura de vulnerabilidades
+  - 🔍 *VulnScanner 3.0* – Ferramenta de varredura de vulnerabilidades
   - 🧱 *Monitor de Vulnerabilidades* – painel Flask com Fail2Ban e VirusTotal
-  - 🧑‍🔧 *Oficina ANS* – site institucional completo com Formspree e GitHub Pages
+  - 🧑‍🔧 *Oficina ANS* – Site institucional completo com Formspree e GitHub Pages
 
 ---
 
