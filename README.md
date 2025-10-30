@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anderson29-nsconsultoria/anderson29-nsconsultoria/main/banner-github.png" width="100%" alt="Banner - Anderson Souza">
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
 
 <p align="center">
@@ -14,7 +18,7 @@
 - 🧩 Tenho experiência com **Suporte N2, Redes, Servidores e Infraestrutura Linux**  
 - 🧰 Criei projetos como:
   - 🔍 *VulnScanner 3.0* – Ferramenta de varredura de vulnerabilidades
-  - 🧱 *Monitor de Vulnerabilidades* – painel Flask com Fail2Ban e VirusTotal
+  - 🧱 *Monitor de Vulnerabilidades* – Painel Flask com Fail2Ban e VirusTotal
   - 🧑‍🔧 *Oficina ANS* – Site institucional completo com Formspree e GitHub Pages
 
 ---
