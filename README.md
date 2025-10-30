@@ -47,13 +47,13 @@
 
 ### 🌐 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/anderson29-nsconsultoria" target="_blank">
+  <a href="www.linkedin.com/in/andersouza-ti" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:anderson.souza@nsconsultoria.cloud">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://anderson29-nsconsultoria.github.io/oficina-alexandre-ans/" target="_blank">
+  <a href="https://anderson29-nsconsultoria.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge">
   </a>
 </p>
