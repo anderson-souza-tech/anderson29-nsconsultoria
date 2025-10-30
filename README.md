@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anderson29-nsconsultoria/anderson29-nsconsultoria/refs/heads/main/banner-github.png
-" width="100%" alt="Banner - Anderson Souza">
+  <img src="https://raw.githubusercontent.com/anderson29-nsconsultoria/anderson29-nsconsultoria/refs/heads/main/banner-github.png" width="100%" alt="Banner - Anderson Souza">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
