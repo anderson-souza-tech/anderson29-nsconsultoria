@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 <strong>Analista de Suporte N2 | Pentest | Segurança da Informação</strong><br>
-  🔐 Apaixonado por cibersegurança, automação e desenvolvimento web.<br>
+  🔐 Apaixonado por Cibersegurança, Automação e Desenvolvimento web.<br>
   ☁️ Explorando Linux, Cloud, DevSecOps e Desenvolvimento Web.
 </p>
 
