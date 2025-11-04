@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/main/banner-github.png" alt="Banner - Anderson Souza" width="100%">
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/refs/heads/main/typing.png" alt="Anderson Souza - Analista de TI" width="700">
-</p>
+</p>*/-->
 
 <h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
 
