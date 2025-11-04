@@ -2,28 +2,24 @@
   <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/main/banner-github.png" alt="Banner - Anderson Souza" width="100%">
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
-
-<p align="center">
-  💻 <strong>Analista de Suporte N2 | Pentest | Segurança da Informação</strong><br>
-  🔐 Apaixonado por Cibersegurança, Automação e Desenvolvimento Web.<br>
-  ☁️ Explorando Linux, Cloud, DevSecOps e Desenvolvimento Full Stack.
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Anderson+Souza!;💻+Analista+de+Suporte+N2+%7C+Pentest+%7C+Segurança+da+Informação;🚀+Apaixonado+por+Cibersegurança+e+Automação!" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 🚀 Sobre mim
-- 🎯 Atualmente focado em **Segurança da Informação** e **Pentest**  
-- 🧠 Estudando **Desenvolvimento Web (HTML, CSS, JS, PHP, Python e MySQL)**  
-- 🧩 Experiência com **Suporte N2, Redes, Servidores e Infraestrutura Linux**  
-- 🧰 Projetos principais:
+### 🧠 Sobre mim
+- 🔒 Focado em **Segurança da Informação**, **Pentest** e **Infraestrutura Linux**  
+- 💡 Estudando **Desenvolvimento Web (HTML, CSS, JS, PHP, Python e MySQL)**  
+- 🧰 Experiência com **Suporte N2, Redes, Servidores e DevSecOps**  
+- ⚙️ Projetos principais:
   - 🔍 **VulnScanner 3.0** – Ferramenta completa de varredura de vulnerabilidades
   - 🧱 **Monitor de Vulnerabilidades** – Painel Flask com Fail2Ban e VirusTotal
-  - 🧑‍🔧 **Oficina ANS** – Site institucional responsivo com Formspree e GitHub Pages
+  - 🌐 **Oficina ANS** – Site institucional moderno e responsivo com Formspree
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 Stack Tecnológica
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,21 +39,21 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anderson-souza-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-souza-tech&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anderson-souza-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-souza-tech&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-### 🌟 Projetos em Destaque
+### 🚀 Projetos em Destaque
 📦 [**VulnScanner 3.0**](https://github.com/anderson-souza-tech/VulnScanner-3.0)  
-🔹 Sistema de varredura e monitoramento de vulnerabilidades em Flask com interface web.  
+🔹 Ferramenta de varredura e monitoramento de vulnerabilidades com Flask e integração de segurança.
 
 🌐 [**Oficina Alexandre ANS**](https://github.com/anderson-souza-tech/oficina-alexandre-ans)  
-🔹 Site institucional moderno e responsivo desenvolvido com HTML, CSS e JS.  
+🔹 Site institucional moderno, responsivo e otimizado para SEO.
 
 💼 [**Portfólio Futurista**](https://github.com/anderson-souza-tech/portfolio)  
-🔹 Portfólio interativo com animações, modo escuro e suporte multilíngue.
+🔹 Portfólio interativo com modo escuro, animações e suporte multilíngue.
 
 ---
 
@@ -77,5 +73,9 @@
 ---
 
 <p align="center">
-  ⚡ “A segurança da informação não é um destino — é uma jornada contínua de aprendizado e evolução.”
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhpZ3ZoamdyYWltc3p1amFtZ2JocG5mZWI1a2t5M3YxYTh2bWltMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif" width="350"/>
+</p>
+
+<p align="center">
+  ⚡ <em>“A segurança da informação não é um destino — é uma jornada contínua de aprendizado e evolução.”</em>
 </p>
