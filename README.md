@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/main/typing.png" alt="Anderson Souza - Analista de TI" width="700">
+  <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/refs/heads/main/typing.png" alt="Anderson Souza - Analista de TI" width="700">
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
