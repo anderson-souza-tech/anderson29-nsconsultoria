@@ -2,9 +2,19 @@
   <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/main/banner-github.png" alt="Banner - Anderson Souza" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Olá%2C+eu+sou+o+Anderson+Souza!;💻+Analista+de+Suporte+N2+%7C+Pentest+%7C+Segurança+da+Informação;🚀+Apaixonado+por+Cibersegurança+e+Automação!" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anderson-souza-tech/anderson-souza-tech/main/typing.png" alt="Anderson Souza - Analista de TI" width="700">
+</p>
+
+<h1 align="center">👋 Olá, eu sou o Anderson Souza</h1>
+
+<p align="center">
+  💻 <strong>Analista de Suporte N2 | Pentest | Segurança da Informação</strong><br>
+  🔐 Apaixonado por Cibersegurança, Automação e Desenvolvimento Web.<br>
+  ☁️ Explorando Linux, Cloud, DevSecOps e Desenvolvimento Full Stack.
+</p>
+
+<!-- o resto do README continua aqui -->
 
 ---
 
